@@ -7,7 +7,7 @@ An application that enables one to virtually paint in the air using their finger
 
 ## Prerequisites:
 - You should install python version 3.7 or more
-- Import all modules required for the project using this command
+- Import all modules required for the project using this given command:
 ```
 pip install <module name>
 ```
